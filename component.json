@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/zhrren/fis-zepto",
+    "version": "v1.1.4",
+    "description": "zepto for fis component",
+    "name": "zepto",
+    "main": "zepto.js"
+}
